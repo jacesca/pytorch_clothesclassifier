@@ -1,0 +1,3 @@
+DATA_SOURCE_PATH=data-sources/
+SAVED_FIGURE_PATH=images/
+SEED=42
